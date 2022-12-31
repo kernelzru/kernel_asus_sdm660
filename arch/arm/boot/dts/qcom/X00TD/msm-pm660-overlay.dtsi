@@ -94,8 +94,3 @@
 	qcom,fg-auto-recharge-soc;
 	qcom,fg-rsense-sel=<1>;
 };
-
-&pm660_haptics {
-	qcom,actuator-type = <1>;
-	qcom,vmax-mv = <2800>;
-};
